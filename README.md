@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pratham2607
-- 👀 I’m interested in web 
+- 👀 I’m interested in coding 
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
